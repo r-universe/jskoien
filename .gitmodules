@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "automap"]
+	path = automap
+	url = https://github.com/cran/automap
+	shallow = true
+	registered = true
+[submodule "intamap"]
+	path = intamap
+	url = https://github.com/cran/intamap
+	shallow = true
+	registered = true
+[submodule "rtop"]
+	path = rtop
+	url = https://github.com/cran/rtop
+	shallow = true
+	registered = true
