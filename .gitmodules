@@ -8,6 +8,9 @@
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
+[submodule "intamapInteractive"]
+	path = intamapInteractive
+	url = https://github.com/cran/intamapInteractive
 [submodule "rtop"]
 	path = rtop
 	url = https://github.com/cran/rtop
