@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "MRG"]
 	path = MRG
-	url = https://github.com/cran/MRG
+	url = https://github.com/jskoien/mrg
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cran/automap
