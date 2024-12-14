@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MRG"]
-	path = MRG
-	url = https://github.com/jskoien/mrg
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cran/automap
