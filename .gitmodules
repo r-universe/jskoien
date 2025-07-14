@@ -7,7 +7,8 @@
 	url = https://github.com/jskoien/mrg
 [submodule "automap"]
 	path = automap
-	url = https://github.com/cran/automap
+	url = https://github.com/jskoien/jskoien
+	subdir = automap
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
